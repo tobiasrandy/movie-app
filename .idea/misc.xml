@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/drawable-v24/capsule_background.xml" value="0.147" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/drawable-v24/fab_background.xml" value="0.1955" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/drawable-v24/score_circle.xml" value="0.147" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/drawable/circle_background.xml" value="0.147" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/drawable/custom_progress_bar.xml" value="0.1955" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/drawable/ic_baseline_arrow_back.xml" value="0.204" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/drawable/purple_button.xml" value="0.1955" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/drawable/score_circle.xml" value="0.147" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/drawable/score_circle_1.xml" value="0.1955" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/drawable/score_circle_2.xml" value="0.1955" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/drawable/search_bar_background.xml" value="0.204" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/drawable/snackbar_background.xml" value="0.2245" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/drawable/transparent_button.xml" value="0.203" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/layout/activity_movie.xml" value="0.33489583333333334" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/layout/activity_movie_detail.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/layout/activity_user_review.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/layout/bottom_sheet_filter_dialog_layout.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.1875" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/layout/item_movie.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/layout/item_review.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/layout/loading_dialog.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/layout/score_button.xml" value="0.17980072463768115" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/layout/score_container.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/menu/menu.xml" value="0.19635416666666666" />
+        <entry key="..\:/AndroidProjects/Movie App/app/src/main/res/menu/top_app_bar.xml" value="0.1875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
